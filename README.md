@@ -2,21 +2,12 @@
 
 I'm a quantitative sociolinguist! I've mostly researched how pronunciations change over time.
 
-- 🤖 I'm a maintainer of [the FAVE Suite](https://github.com/JoFrhwld/FAVE) which helps automate acoustic analysis
+- 🤖 I help develop and maintain packages for speeding up acoustic vowel analysis, like:
+  - ⏩ [FastTrackPy](https://fasttrackiverse.github.io/fasttrackpy/)
+  - 🎛️ [new-fave](https://forced-alignment-and-vowel-extraction.github.io/new-fave/)
+  - 📐 [aligned-tetgrid](https://forced-alignment-and-vowel-extraction.github.io/alignedTextGrid/)
 - 💬 My strongest programming languages are R and Python
 - 🏫 I'm an Assistant Professor at the University of Kentucky
 - 😄 Pronouns: he/him
 - 🧶 I'm also an avid knitter
-
-
-<!-- Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏠 [My website](https://jofrhwld.github.io/)
